@@ -56,7 +56,7 @@ Using APlayer on your project? [Let me know!](https://github.com/MoePlayer/APlay
 -   Feel free to submit yours in [`Let me know!`](https://github.com/MoePlayer/APlayer/issues/79)
 
 ## Who use APlayer?
-
+-   [本牛科技有限公司](https://www.benewtech.cn/) 国内知名启蒙教育平台
 -   [bilibili](https://www.bilibili.com/): 国内知名的视频弹幕网站
 -   [黑客派](https://hacpai.com/): 程序员和设计师的聚集地，一个活跃的小众社区
 -   [浙江大学 CC98 论坛](https://zh.wikipedia.org/wiki/CC98%E8%AE%BA%E5%9D%9B): 浙江大学校网内规模最大的论坛，中国各大学中较活跃的 BBS 之一
